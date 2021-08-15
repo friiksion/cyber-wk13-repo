@@ -33,7 +33,7 @@ Where a date is inputted for *$1_Dealer_schedule*, a time is inputted for *$2* a
 
 ## Diagrams
 
-![Network Diagram](./NetworkDiagram.png)
+![Network Diagram](./diagrams/NetworkDiagram.png)
 We studied briefly on how to create network diagrams, just to get a basic understanding of how to visualise a network if needed by an employer.
 
 ---
